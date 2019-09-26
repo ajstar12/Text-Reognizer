@@ -1,0 +1,2 @@
+# Text-Reognizer
+Text Recognizer
